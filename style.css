@@ -1,0 +1,24 @@
+p{
+    display: inline;
+    font-size: 40px;
+    margin-left: 150px;;
+}
+
+body{
+    background: url(https://i.pinimg.com/564x/21/44/b3/2144b3ffb74eedd0230083f6dc780da8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.div{
+    
+    margin-top: 15%;
+    font-weight: bolder;
+    font-family: fantasy;
+}
+h1{
+    text-align: center;
+    margin-top: 5%;
+    font-weight: lighter;
+    font-family: fantasy;
+}
